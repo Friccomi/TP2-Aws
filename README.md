@@ -4,7 +4,7 @@
 
 ## Explicacion y Calculo de Costos
 
-![doc] https://github.com/Friccomi/TP2-Aws/blob/master/Implementacion.pdf
+https://github.com/Friccomi/TP2-Aws/blob/master/Implementacion.pdf
 
 ## Video:
   
